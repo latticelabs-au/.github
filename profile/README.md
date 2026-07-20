@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://latticelabs.au"><img src="https://raw.githubusercontent.com/latticelabs-au/.github/main/profile/assets/banner.svg" alt="Lattice Labs. Engineered to scale." width="100%"></a>
+<a href="https://latticelabs.au"><img src="https://raw.githubusercontent.com/latticelabs-au/.github/main/profile/assets/banner.svg" alt="Lattice Labs. Names are sacred." width="100%"></a>
 
 <br><br>
 
@@ -8,6 +8,8 @@
 [![latticelook.au](https://img.shields.io/website?url=https%3A%2F%2Flatticelook.au&up_message=live&up_color=00B4D8&down_message=down&down_color=AC145A&label=latticelook.au&style=for-the-badge&labelColor=0C1E3C)](https://latticelook.au)
 [![uptime](https://img.shields.io/badge/uptime-status.latticelook.au-B8860B?style=for-the-badge&labelColor=0C1E3C)](https://status.latticelook.au)
 [![email](https://img.shields.io/badge/email-hello%40latticelabs.au-1E3A5F?style=for-the-badge&labelColor=0C1E3C)](mailto:hello@latticelabs.au)
+
+**Names are sacred.**
 
 Compliance, learning and governance software for Australian government and regulated enterprise.
 
